@@ -5,9 +5,9 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 
 ## How It Works  
 
-1. Clone this repository.  
+1. Fork this repository.  
 2. Use the provided template file (`template_code.ipynb`) as a starting point for your PennyLane circuit.  
-3. Once your code is ready, commit and push your file to this repository before **Wednesday, January 14th, at 1:00 PM**.  
+3. Once your code is ready, commit and submit a pull request before **Wednesday, January 14th, at 1:00 PM**.  
 4. Come visit us at the **Calcul Québec booth** to see your code in action on MonarQ!  
 
 ## Submission Guidelines  
