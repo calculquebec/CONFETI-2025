@@ -6,13 +6,13 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 ## How It Works  
 
 1. Clone this repository.  
-2. Use the provided template file (`template_code.py`) as a starting point for your PennyLane circuit.  
+2. Use the provided template file (`template_code.ipynb`) as a starting point for your PennyLane circuit.  
 3. Once your code is ready, commit and push your file to this repository before **Wednesday, January 14th, at 1:00 PM**.  
 4. Come visit us at the **Calcul Québec booth** to see your code in action on MonarQ!  
 
 ## Submission Guidelines  
 
-- Name your file with your GitHub username to avoid conflicts (e.g., `username_circuit.py`).  
+- Name your file with your GitHub username to avoid conflicts (e.g., `username_circuit.ipynb`).  
 - Ensure your code follows the structure in the template file. Only PennyLane code will be accepted. 
 - You have access to 12 qubits.
 - The max gate depth is ~350 for single qubit gates and ~115 for two qubit gates.
@@ -20,5 +20,5 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 
 ## Template Code  
 
-We’ve provided a file called `template_code.py` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit!  
+We’ve provided a file called `template_code.ipynb` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit!  
 
