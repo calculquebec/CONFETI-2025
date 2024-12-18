@@ -20,5 +20,5 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 
 ## Template Code  
 
-We’ve provided a file called `template_confeti.ipynb` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit!  
+We’ve provided a file called `template_confeti.ipynb` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit! To get started with PennyLane, you can also refer to [CIQ-102 Introduction to Programming with PennyLane](https://github.com/calculquebec/ciq102-introduction-pennylane/tree/main/English) 
 
