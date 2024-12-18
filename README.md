@@ -6,7 +6,7 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 ## How It Works  
 
 1. Fork this repository.  
-2. Use the provided template file (`template_code.ipynb`) as a starting point for your PennyLane circuit.  
+2. Use the provided template file (`template_confeti.ipynb`) as a starting point for your PennyLane circuit.  
 3. Once your code is ready, commit and submit a pull request before **Wednesday, January 14th, at 1:00 PM**.  
 4. Come visit us at the **Calcul Québec booth** to see your code in action on MonarQ!  
 
@@ -20,5 +20,5 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 
 ## Template Code  
 
-We’ve provided a file called `template_code.ipynb` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit!  
+We’ve provided a file called `template_confeti.ipynb` to help you get started. It includes the basic setup for running quantum circuits with PennyLane. Feel free to modify it to create your own unique circuit!  
 
