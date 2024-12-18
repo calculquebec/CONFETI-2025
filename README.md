@@ -15,7 +15,7 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 - Name your file with your GitHub username to avoid conflicts (e.g., `username_circuit.ipynb`).  
 - Ensure your code follows the structure in the template file. Only PennyLane code will be accepted. 
 - You have access to 12 qubits.
-- The max gate depth is ~350 for single qubit gates and ~115 for two qubit gates.
+- The max circuit depth is ~350 using single qubit gates and ~115 using two qubit gates.
 - Calcul Québec reserves the right not to run all submitted circuits.
 
 ## Template Code  
