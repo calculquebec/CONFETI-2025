@@ -7,7 +7,7 @@ Welcome to the **MonarQ Live Demo** repository! This is your chance to run your 
 
 1. Fork this repository.  
 2. Use the provided template file (`template_confeti.ipynb`) as a starting point for your PennyLane circuit.  
-3. Once your code is ready, commit and submit a pull request before **Wednesday, January 14th, at 1:00 PM**.  
+3. Once your code is ready, commit and submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) before **Wednesday, January 14th, at 1:00 PM**.  
 4. Come visit us at the **Calcul Québec booth** to see your code in action on MonarQ!  
 
 ## Submission Guidelines  
